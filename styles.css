@@ -142,3 +142,24 @@ button {
     gap: 15px;
     max-width: 200px;
 }
+
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    padding: 4% 2% 4% 2%;
+    align-items: center;
+    max-height: 400px;
+}
+
+.words{
+    font-style: italic;
+    align-self: flex-end;
+}
+
+.person {
+    align-self: flex-end;
+    padding-right: 20%;
+}
